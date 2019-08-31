@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="72301" started-at="2019-08-26T18:06:50Z" finished-at="2019-08-26T18:08:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="72301" started-at="2019-08-26T18:06:50Z" finished-at="2019-08-26T18:08:03Z">
+      <class name="com.Assignment1.WallethubLoginPage">
+        <test-method status="PASS" signature="Loginwallethub()[pri:0, instance:com.Assignment1.WallethubLoginPage@2f32ff]" name="Loginwallethub" duration-ms="72262" started-at="2019-08-26T18:06:50Z" finished-at="2019-08-26T18:08:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Loginwallethub -->
+      </class> <!-- com.Assignment1.WallethubLoginPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
